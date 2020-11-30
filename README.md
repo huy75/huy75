@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there welcome to my GitHub page 👋
+
+I'm currently a software engineer student @HolbertonSchool in Paris, France. I also have a training as a data developper with @Simplon.co.
+
+---
+
+### What do I do
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
 
 <!--
 **huy75/huy75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
