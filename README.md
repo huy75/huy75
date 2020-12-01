@@ -9,6 +9,7 @@ I'm currently a software engineer student @HolbertonSchool in Paris, France. I a
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" />
