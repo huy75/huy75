@@ -1,4 +1,4 @@
-### Hi there welcome to my GitHub page 👋
+### Hi there 👋
 
 I'm currently a software engineer student @HolbertonSchool in Paris, France. I also have a training as a data developper with @Simplon.co.
 
@@ -27,6 +27,12 @@ I'm currently a software engineer student @HolbertonSchool in Paris, France. I a
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://huy-nguyen.medium.com/">
+  <img
+    alt="Medium"
+    src="https://img.shields.io/badge/medium-12100E?logo=medium&logoColor=white&style=for-the-badge"
   />
 </a>
 </p>
