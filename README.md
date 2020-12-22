@@ -41,6 +41,9 @@ I'm currently a software engineer student @HolbertonSchool in Paris, France. I a
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=huy75&hide=prs,issues&show_icons=true&theme=highcontrast" />
 
+
+![](https://komarev.com/ghpvc/?username=huy75&color=yellowgreen&style=plastic)
+
 <!--
 **huy75/huy75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
