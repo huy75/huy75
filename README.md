@@ -29,7 +29,7 @@ I'm currently a software engineer student @HolbertonSchool in Paris, France. I a
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://huy-nguyen.medium.com/">
+<a href="https://huy75.medium.com/">
   <img
     alt="Medium"
     src="https://img.shields.io/badge/medium-12100E?logo=medium&logoColor=white&style=for-the-badge"
