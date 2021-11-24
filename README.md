@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently a software engineer student @HolbertonSchool in Paris, France. I also have a training as a data developper with @Simplon.co.
+I've completed the Back-end Web Development specialization @Holberton School: MySQL, Redis, Caching, i18n, NodeJS, Authentification, GraphQL, Data structures.
+And also the Foundation of Computer Science & Software Engineering @Holberton School: low-level programming & algorithms, high-level programming and databases, and system engineering & networking.
+
+I also have a training as a data developper with @Simplon.co.
 
 ---
 
@@ -13,6 +16,8 @@ I'm currently a software engineer student @HolbertonSchool in Paris, France. I a
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" />
+  <img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Send me a message
