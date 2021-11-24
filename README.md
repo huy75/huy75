@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 I've completed the Back-end Web Development specialization @Holberton School: MySQL, Redis, Caching, i18n, NodeJS, Authentification, GraphQL, Data structures.
+
 And also the Foundation of Computer Science & Software Engineering @Holberton School: low-level programming & algorithms, high-level programming and databases, and system engineering & networking.
 
-I also have a training as a data developper with @Simplon.co.
+Before that I have a training as a data developper with @Simplon.co.
 
 ---
 
