@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I've completed the Back-end Web Development specialization @Holberton School: MySQL, Redis, Caching, i18n, NodeJS, Authentification, GraphQL, Data structures.
+As a recent graduate of HolbertonSchool, I'm currently extending my knowledge with online courses on Node.js, GraphQL and Docker.
 
-And also the Foundation of Computer Science & Software Engineering @Holberton School: low-level programming & algorithms, high-level programming and databases, and system engineering & networking.
-
-Before that I have a training as a data developper with @Simplon.co.
+My skills:
+· Back-end Web Development: MySQL, Redis, Caching, i18n, JS, Authentification, Data structures.
+· Create my own printf function, implement a Shell in C and an Airbnb clone in Python.
+· Low-level programming & algorithms, high-level programming, databases, system engineering & networking, Linux, API and DevOps.
+· Exploratory Data Analysis & Data Visualisation, with Python (Flask, Pandas, Folium & Plotly), MySQL, NoSQL, Heroku.
+· Agile method (Scrum, Kanban).
 
 ---
 
