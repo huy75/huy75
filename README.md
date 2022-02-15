@@ -4,6 +4,7 @@ As a recent graduate of HolbertonSchool, I'm currently extending my knowledge wi
 
 My skills:
 - Back-end Web Development: MySQL, Redis, Caching, i18n, JS, Authentification, Data structures.
+- Create a website (React, AWS, NodeJS / Express, Sequelize, PostgreSQL).
 - Create my own printf function, implement a Shell in C and an Airbnb clone in Python.
 - Low-level programming & algorithms, high-level programming, databases, system engineering & networking, Linux, API and DevOps.
 - Exploratory Data Analysis & Data Visualisation, with Python (Flask, Pandas, Folium & Plotly), MySQL, NoSQL, Heroku.
