@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-As a recent graduate of HolbertonSchool, I'm currently extending my knowledge with online courses on Node.js, GraphQL and Docker.
+As a graduate of HolbertonSchool, I'm currently extending my knowledge with DataScientest to be a cloud data engineer.
+
+After a fulfilled experience in B-to-B marketing in the telecommunications sector, I wish to return to my initial training in computer science.
 
 My skills:
+- Cloud Data Engineering: Data Processing & Machine Learning with PySpark, Spark Streaming, Kafka, Hadoop, Hive, Hbase, ETL Pipeline, AWS SAA C02
 - Back-end Web Development: MySQL, Redis, Caching, i18n, JS, Authentification, Data structures.
 - Create a website (React, AWS, NodeJS / Express, Sequelize, PostgreSQL).
 - Create my own printf function, implement a Shell in C and an Airbnb clone in Python.
