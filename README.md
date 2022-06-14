@@ -5,7 +5,8 @@ As a graduate of HolbertonSchool, I'm currently extending my knowledge with Data
 After a fulfilled experience in B-to-B marketing in the telecommunications sector, I wish to return to my initial training in computer science.
 
 My skills:
-- Cloud Data Engineering: Data Processing & Machine Learning with PySpark, Spark Streaming, Kafka, Hadoop, Hive, Hbase, ETL Pipeline, AWS SAA C02
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f50e6ebf-3148-4c62-8806-3359b360e1dd/public_url)
+- Cloud Data Engineering: Data Processing & Machine Learning with PySpark, Spark Streaming, Kafka, Hadoop, Hive, Hbase, ETL Pipeline
 - Back-end Web Development: MySQL, Redis, Caching, i18n, JS, Authentification, Data structures.
 - Create a website (React, AWS, NodeJS / Express, Sequelize, PostgreSQL).
 - Create my own printf function, implement a Shell in C and an Airbnb clone in Python.
