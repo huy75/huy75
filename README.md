@@ -19,7 +19,7 @@ My skills:
 
 ### What do I do
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=AWS&logoColor=black&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
