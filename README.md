@@ -7,7 +7,7 @@ After a fulfilled experience in B-to-B marketing in the telecommunications secto
 My skills:
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/b590be44-af1f-4fc0-b6af-2e994f107673/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f50e6ebf-3148-4c62-8806-3359b360e1dd/public_url)
-- Cloud Data Engineering: Data Processing & Machine Learning with PySpark, Spark Streaming, Kafka, Hadoop, Hive, Hbase, ETL Pipeline
+- Cloud Data Engineering: Data Processing & Machine Learning with PySpark, Kafka, Hadoop, Hive, Hbase, ETL Pipeline
 - Back-end Web Development: MySQL, Redis, Caching, i18n, JS, Authentification, Data structures.
 - Create a website (React, AWS, NodeJS / Express, Sequelize, PostgreSQL).
 - Create my own printf function, implement a Shell in C and an Airbnb clone in Python.
