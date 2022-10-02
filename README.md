@@ -17,11 +17,12 @@ My skills:
 
 ---
 
-### What do I do
+### What do I do 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+  <img alt="Spark" src="https://img.shields.io/badge/ApacheSpark-E25A1C?logo=ApacheSpark&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
