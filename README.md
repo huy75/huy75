@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a graduate of HolbertonSchool, I've extended my knowledge with data engineering skills.
+As a graduate of HolbertonSchool as a Software Engineer, I've extended my knowledge with data engineering skills.
 
 After a fulfilled experience in B-to-B marketing in the telecommunications sector, I wish to return to my initial training in computer science.
 
