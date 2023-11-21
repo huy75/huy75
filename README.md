@@ -2,8 +2,6 @@
 
 As a graduate of HolbertonSchool as a Software Engineer, I've extended my knowledge with data engineering skills.
 
-After a fulfilled experience in B-to-B marketing in the telecommunications sector, I wish to return to my initial training in computer science.
-
 My skills:
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/b590be44-af1f-4fc0-b6af-2e994f107673/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f50e6ebf-3148-4c62-8806-3359b360e1dd/public_url)
